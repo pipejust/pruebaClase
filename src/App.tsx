@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { CartProvider } from './context/CartContext';
 import Navbar from './components/Navbar';
 import CategoryFilter from './components/CategoryFilter';
